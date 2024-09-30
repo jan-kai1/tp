@@ -1,7 +1,17 @@
 package seedu.address.model.person;
 
+/**
+ * Represents a Person's remark in the address book.
+ *
+ */
 public class Remark {
+
     public final String value;
+    /**
+     * Constructs a {@code Remark}.
+     *
+     * @param remark A valid remark.
+     */
     public Remark(String remark) {
         this.value = remark;
     }
