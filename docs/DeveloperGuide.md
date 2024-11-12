@@ -344,6 +344,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
   * 2c1. PlanPal displays an error message indicating the event is invalid.
 
     Use case ends.
+
 **UC07: Search for contacts using multiple filters**
 
 **MSS**
